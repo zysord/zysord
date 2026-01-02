@@ -1,5 +1,5 @@
 
-### <div align="center">I'm inkdust, a student in China</div>  
+### <div align="center">I'm Zysord, a student in China</div>  
   
 
 - 🌱 I’m currently learning HTML/CSS/JS  Python PHP  
@@ -55,7 +55,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=inkdust-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zysord&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
